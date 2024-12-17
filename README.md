@@ -41,6 +41,6 @@ Asset Layer provides two main features:
 ## Getting Started
 
 For detailed setup instructions, please refer to:
-- [Frontend Setup Guide](frontend/README.md)
-- [Backend Setup Guide](backend/README.md)
+- [Frontend Setup Guide](assetlayer-frontend/README.md)
+- [Backend Setup Guide](assetlayer-backend/README.md)
 
