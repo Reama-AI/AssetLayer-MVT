@@ -45,12 +45,7 @@ The frontend application for Asset Layer, built with React and Tailwind CSS. Thi
 npm install
 ```
 
-2. Create a .env file in the root directory:
-```bash
-VITE_API_URL=http://localhost:8000/api
-```
-
-3. Start the development server:
+2. Start the development server:
 ```bash
 npm run dev
 ```
